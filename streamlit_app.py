@@ -767,7 +767,7 @@ st.markdown(f"""
     
     .stButton > button:active {{
         transform: translateY(0) scale(0.98) !important;
-    }
+    }}
     
     /* Botón de enviar específico - tamaño nativo Kimi */
     button[kind="primary"] {{
