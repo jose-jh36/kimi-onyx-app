@@ -763,7 +763,7 @@ st.markdown(f"""
         box-shadow: 
             0 8px 25px rgba(79, 70, 229, 0.4),
             0 0 0 1px rgba(255, 255, 255, 0.3) inset !important;
-    }
+    }}
     
     .stButton > button:active {{
         transform: translateY(0) scale(0.98) !important;
