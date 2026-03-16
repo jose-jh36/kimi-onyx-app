@@ -1,4 +1,3 @@
-# ============================================================================
 # KIMI ONYX VIP - INTERFAZ ESTILO KIMI NATIVO CON EFECTOS 3D PREMIUM
 # Backend: Python/Streamlit + Frontend: React-inspired UI
 # ============================================================================
